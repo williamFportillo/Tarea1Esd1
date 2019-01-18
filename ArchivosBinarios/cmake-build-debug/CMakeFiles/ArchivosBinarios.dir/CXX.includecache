@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/WilliamPC/Desktop/2019/Clases_PrimerTri/ED2/TAREAS/ArchivosBinarios/Cuentas.cpp
+Cuentas.h
+C:/Users/WilliamPC/Desktop/2019/Clases_PrimerTri/ED2/TAREAS/ArchivosBinarios/Cuentas.h
+fstream
+-
+iostream
+-
+
+C:/Users/WilliamPC/Desktop/2019/Clases_PrimerTri/ED2/TAREAS/ArchivosBinarios/Cuentas.h
+
+C:/Users/WilliamPC/Desktop/2019/Clases_PrimerTri/ED2/TAREAS/ArchivosBinarios/Transacciones.cpp
+Transacciones.h
+C:/Users/WilliamPC/Desktop/2019/Clases_PrimerTri/ED2/TAREAS/ArchivosBinarios/Transacciones.h
+Cuentas.h
+C:/Users/WilliamPC/Desktop/2019/Clases_PrimerTri/ED2/TAREAS/ArchivosBinarios/Cuentas.h
+iostream
+-
+fstream
+-
+
+C:/Users/WilliamPC/Desktop/2019/Clases_PrimerTri/ED2/TAREAS/ArchivosBinarios/Transacciones.h
+
+C:/Users/WilliamPC/Desktop/2019/Clases_PrimerTri/ED2/TAREAS/ArchivosBinarios/main.cpp
+iostream
+-
+fstream
+-
+Cuentas.h
+C:/Users/WilliamPC/Desktop/2019/Clases_PrimerTri/ED2/TAREAS/ArchivosBinarios/Cuentas.h
+Transacciones.h
+C:/Users/WilliamPC/Desktop/2019/Clases_PrimerTri/ED2/TAREAS/ArchivosBinarios/Transacciones.h
+

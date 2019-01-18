@@ -1,0 +1,3 @@
+C:/Users/WilliamPC/Desktop/2019/Clases_PrimerTri/ED2/TAREAS/ArchivosBinarios/cmake-build-debug/CMakeFiles/ArchivosBinarios.dir
+C:/Users/WilliamPC/Desktop/2019/Clases_PrimerTri/ED2/TAREAS/ArchivosBinarios/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WilliamPC/Desktop/2019/Clases_PrimerTri/ED2/TAREAS/ArchivosBinarios/cmake-build-debug/CMakeFiles/rebuild_cache.dir
